@@ -1,3 +1,8 @@
+% BeiDou Single Point Positioning
+% Author: WheatJay
+% Version: 1.1
+% Description: BDS SPP based on MATLAB
+
 %% ===================== 0. 填入文件 =====================
 obsFile = '';  % 在此填入观测文件 eg: ALIC00AUS_R_20240320000_01D_30S_MO.rnx
 navFile = '';  % 在此填入导航文件 eg: BRDC00IGS_R_20240320000_01D_MN.rnx
